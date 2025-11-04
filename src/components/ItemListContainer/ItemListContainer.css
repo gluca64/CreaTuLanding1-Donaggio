@@ -1,0 +1,34 @@
+/* Estilos para los dots del slider */
+.slick-dots {
+  bottom: 25px;
+}
+
+.slick-dots li button:before {
+  color: #fff;
+  opacity: 0.5;
+  font-size: 12px;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #fff;
+  opacity: 1;
+}
+
+/* Estilos para las cards de categorías */
+.category-card {
+  transition: all 0.3s ease-in-out;
+}
+
+.category-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 15px rgba(34, 197, 94, 0.2);
+}
+
+/* Ajustes de espaciado */
+.slick-slider {
+  margin: 0 -15px;
+}
+
+.slick-slide > div {
+  padding: 0 15px;
+}
