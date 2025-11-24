@@ -25,12 +25,12 @@ npm install
 
 3. Crear archivo `.env` con las credenciales de Firebase:
 ```env
-VITE_FIREBASE_API_KEY=tu_api_key
-VITE_FIREBASE_AUTH_DOMAIN=tu_auth_domain
-VITE_FIREBASE_PROJECT_ID=tu_project_id
-VITE_FIREBASE_STORAGE_BUCKET=tu_storage_bucket
-VITE_FIREBASE_MESSAGING_SENDER_ID=tu_messaging_sender_id
-VITE_FIREBASE_APP_ID=tu_app_id
+VITE_FIREBASE_API_KEY=AIzasyDj0AfXLredYbBUvRZgvdlOl8ujLeKwA
+VITE_FIREBASE_AUTH_DOMAIN=mercadocl-b6496.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=mercadocl-b6496
+VITE_FIREBASE_STORAGE_BUCKET=mercadocl-b6496.firebasestorage.app
+VITE_FIREBASE_MESSAGING_SENDER_ID=60172737234
+VITE_FIREBASE_APP_ID=1:60172737234:web:22cdffca15f0945bf9e2b6b
 ```
 
 4. Iniciar servidor:
